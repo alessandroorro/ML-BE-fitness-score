@@ -30,7 +30,9 @@ Alessandro Orro, Arianna Consiglio, Maria Ilaria Curci, Martina Scichilone, Faiz
 
 ## Dataset format
 The data input is a x.sx file with the following columns
-    Gene symbol: Symbol identifying the target gene associated with the genomic locus or sgRNA target.
+
+*Gene symbol*
+Symbol identifying the target gene associated with the genomic locus or sgRNA target.
     
     sgRNA sequence: Nucleotide sequence of the single guide RNA (typically 20 nucleotides in length).
     
