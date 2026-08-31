@@ -20,6 +20,9 @@ Alessandro Orro, Arianna Consiglio, Maria Ilaria Curci, Martina Scichilone, Faiz
     scikit-learn==1.5.2
     scipy==1.17.1
     tqdm==4.67.1
+    statsmodels==0.14.6
+    shap==0.47.2
+    matplotlib==3.10.7
 
 
  
